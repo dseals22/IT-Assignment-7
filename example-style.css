@@ -1,0 +1,9 @@
+@media screen and (max-width: 320px) and (orientation: portrait)
+{
+    #demo1{ width: 100px;} 
+    #demo2{ width: 100px;}
+    body { background-color: red; }
+}
+
+
+
